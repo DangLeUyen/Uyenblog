@@ -1,9 +1,9 @@
-theme: minima
+theme: jekyll-theme-minimal
 title: Uyen Dang's Blog
 author: Uyen Dang
 email: dtleuyen@gmail.com
 description: My daily journey into Deep Learning, Medical Imaging, Missing Data, and the search for fairer algorithms.
 
-Social links:
+social-links:
 - LinkedIn: https://linkedin.com/in/leuyendt
 - GitHub: https://github.com/DangLeUyen
