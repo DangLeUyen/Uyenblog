@@ -9,5 +9,5 @@ I’m currently deep-diving into the challenges of healthcare AI, specifically h
 - Nguyen, T., Dang, U., Vo, T. L., Halvorsen, P., & Riegler, M. A. (2025). Imputation using training labels and classification via label imputation. IEEE Access, 13, 196539-196551.
 
 **Social Links**
-LinkedIn: https://linkedin.com/in/leuyendt
-GitHub: https://github.com/DangLeUyen
+- LinkedIn: https://linkedin.com/in/leuyendt
+- GitHub: https://github.com/DangLeUyen
