@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 title: Uyen Dang's homepage
 description: The blog helps me to update my knowlege related to AI everyday.
 
-LinkedIn: https://linkedin.com/in/leuyendt
-GitHub: https://github.com/DangLeUyen
+LinkedIn: \href{https://linkedin.com/in/leuyendt}
+GitHub: \href{https://github.com/DangLeUyen}
