@@ -3,3 +3,9 @@ title: Uyen Dang's Blog
 author: Uyen Dang
 email: dtleuyen@gmail.com
 description: My research interests include Missing Data, Medical Imaging, XAI, AI Bias
+
+plugins:
+  - jekyll-paginate
+
+paginate: 5
+paginate_path: "/page:num/"
