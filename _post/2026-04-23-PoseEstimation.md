@@ -2,7 +2,7 @@
 layout: post
 title: "Pose Estimation"
 date: 2026-04-23
-categories: blog
+categories: Pose Estimation
 ---
 
 ## Pose Estimation - Part 1
