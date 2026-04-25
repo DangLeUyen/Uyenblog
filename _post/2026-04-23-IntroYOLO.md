@@ -2,7 +2,7 @@
 layout: post
 title: "YOLO"
 date: 2026-04-23 15:22:00 -0000
-categories: Deep Learning
+categories: computer-vision
 ---
 
 ## YOLO
